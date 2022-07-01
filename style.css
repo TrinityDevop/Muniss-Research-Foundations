@@ -570,9 +570,9 @@ blockquote:before {
   float: none;
 }
 .mean-container .mean-bar a.logo-mobile-menu {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color:#39373700;
   box-sizing: border-box;
-  width: 100%;
+  width: 124px;
 }
 .mean-container .mean-bar a {
   display: inline-block;
@@ -1322,6 +1322,7 @@ blockquote:before {
 }
 .waste-time-area .waste-time-content p {
   margin-bottom: 0;
+  text-align: center;
 }
 .waste-time-area .waste-time-button {
   text-align: right;
